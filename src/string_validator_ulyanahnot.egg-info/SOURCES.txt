@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/string_validator/__init__.py
+src/string_validator/__main__.py
+src/string_validator/validator.py
+src/string_validator_ulyanahnot.egg-info/PKG-INFO
+src/string_validator_ulyanahnot.egg-info/SOURCES.txt
+src/string_validator_ulyanahnot.egg-info/dependency_links.txt
+src/string_validator_ulyanahnot.egg-info/entry_points.txt
+src/string_validator_ulyanahnot.egg-info/top_level.txt
+tests/test_validator.py

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "string-validator-ulyanahnot"
+version = "0.1.0"
+authors = [
+  { name="Ulyana", email="student@example.com" },
+]
+description = "Lab 5 Validator"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.scripts]
+string-validator = "string_validator.__main__:main"
